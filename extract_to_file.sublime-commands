@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Extract: Move selection to file ...",
+    "command": "extract_to_file"
+  }
+]
